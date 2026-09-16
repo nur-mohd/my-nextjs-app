@@ -18,10 +18,16 @@ const links = <>
     <Link href="/about">About</Link>
   </li>
   <li>
-    <Link href="/about/designers">For Designers</Link>
+    <Link href="/about/designers">Designers</Link>
   </li>
   <li>
-    <Link href="/about/developers">For Developers</Link>
+    <Link href="/about/developers">Developers</Link>
+  </li>
+  <li>
+    <Link href="/dashboard">Dashboard</Link>
+  </li>
+  <li>
+    <Link href="/users">Users</Link>
   </li>
 </>
 

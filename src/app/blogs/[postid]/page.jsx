@@ -64,7 +64,6 @@ const postDetailPage = async  ({params}) => {
                     <p>Author: {post.author}</p>
                     <p>Category: {post.category}</p>
                     <p>Date: {post.date}</p>
-                    <img src={post.image} alt={post.title} />
                 </div>
             ) : (
                 <p>Post not found</p>
