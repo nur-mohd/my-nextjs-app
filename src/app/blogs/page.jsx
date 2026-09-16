@@ -1,6 +1,7 @@
 import React from 'react';
 import Post from '../components/Post';
 
+//TODO: Fetch data from an API or database instead of using static data
 const blogsData = [
   {
     id: 1,
